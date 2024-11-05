@@ -3,4 +3,5 @@
 - Dr. Doom
 - Red Skull
 
-* Dr Canales
+- Dr Canales
+- Capitan America
